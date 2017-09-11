@@ -1,4 +1,1 @@
-Git is a version control system.
-Git is free software
-
-God Bless Me.
+这是一个小脚本，能抓取斗鱼直播间弹幕，并存入mysql中。
